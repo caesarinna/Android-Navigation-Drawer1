@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "1023684337358",
+    "project_id": "reglogfb",
+    "storage_bucket": "reglogfb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023684337358:android:c5fd89085baa3f14baba9f",
+        "android_client_info": {
+          "package_name": "or.school.android.navigationdrawer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq3T_ul0S0JYYkB8DZHWVVaeqrFYS3pTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023684337358:android:15fa5bb63c8e6c92baba9f",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq3T_ul0S0JYYkB8DZHWVVaeqrFYS3pTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023684337358:android:919f8b25de57203cbaba9f",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq3T_ul0S0JYYkB8DZHWVVaeqrFYS3pTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023684337358:android:cde6e0e473e420fcbaba9f",
+        "android_client_info": {
+          "package_name": "or.school.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq3T_ul0S0JYYkB8DZHWVVaeqrFYS3pTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023684337358:android:46fbc06f5d804bc5baba9f",
+        "android_client_info": {
+          "package_name": "or.school.myfbreglog2025"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq3T_ul0S0JYYkB8DZHWVVaeqrFYS3pTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023684337358:android:c7b4ff5783a7a849baba9f",
+        "android_client_info": {
+          "package_name": "or.school.reglogfb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq3T_ul0S0JYYkB8DZHWVVaeqrFYS3pTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023684337358:android:e6a23f5650da3c6fbaba9f",
+        "android_client_info": {
+          "package_name": "or.school.stam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq3T_ul0S0JYYkB8DZHWVVaeqrFYS3pTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
